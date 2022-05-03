@@ -1,2 +1,3 @@
 # tip-cal
-Tip-calculator js
+## Tip-calculator js
+### [Live](https://artanmerko.github.io/tip/)
